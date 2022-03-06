@@ -1,1 +1,1 @@
-cd ~
+school.mgc
