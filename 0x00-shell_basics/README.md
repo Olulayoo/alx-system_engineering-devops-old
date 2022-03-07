@@ -1,1 +1,1 @@
-school.mgc
+This is code
